@@ -1,0 +1,60 @@
+/* All common css start  */
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+    font-family: "Inter", sans-serif;
+}
+ul,ol{
+    list-style-type: none;
+}
+a,a:hover{
+    text-decoration: none;
+    display: inline-block;
+}
+h1,h2,h3,h4,h5,h6,p{
+    margin: 0;
+    padding: 0;
+    line-height: 0.8;
+}
+
+/* All common css end */
+/* Header part start  */
+.nav-link{
+    padding: 0 30px !important;
+    font-size: 18px;
+    transition: .4s;
+}
+.nav-link:hover{
+    color: #6A4DF4;
+}
+.contactBtn{
+    padding: 20px 40px;
+    background:#6A4DF4 ;
+    color: white;
+    border-radius: 10px;
+}
+
+
+
+/* Header part end  */
+
+/* Header part start  */
+
+/* Header part end  */
+
+/* Header part start  */
+
+/* Header part end  */
+
+/* Header part start  */
+
+/* Header part end  */
+
+/* Header part start  */
+
+/* Header part end  */
+/* Header part start  */
+
+/* Header part end  */
